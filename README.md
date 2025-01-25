@@ -1,4 +1,4 @@
-## Hi there 👋
+![LeetCode Stats](https://leetcard.jacoblin.cool/ynan1985?theme=nord&ext=heatmap)
 
 <!--
 **YNan1985/YNan1985** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
